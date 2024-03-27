@@ -1,0 +1,2 @@
+This Python script offers a straightforward way to chat with OpenAI's GPT models without any complex setup. Just insert your OpenAI API key in the provided slot, run the script, and you can start having conversations with GPT directly from your terminal.
+It's a simple, interactive way to explore what GPT models can do, requiring nothing more than Python and an OpenAI account. When you wish to stop, simply type "quit", "exit", or "bye".
